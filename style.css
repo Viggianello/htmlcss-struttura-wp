@@ -35,6 +35,23 @@ header{
     background-color: gray;
     float: left;
 }
+#comandi{
+    height: 100%;
+    width: 60%;
+    margin: auto;
+    position: relative;
+}
+#pli{
+    margin-left: 0;
+}
+li{
+    margin-left: 11%;
+    display: inline;
+}
+#uli{
+    position: absolute;
+    right: 0;
+}
 .sx{
     border-radius: 4%;
     margin-top: 1%;
